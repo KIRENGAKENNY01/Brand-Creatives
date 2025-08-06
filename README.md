@@ -1,8 +1,19 @@
-# React + Vite
+## Sunnyside Agency Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This is the repository for the Sunnyside Agency website, a creative agency showcasing branding, graphic design, and photography services. The site features a vibrant design with colorful imagery and a clean layout to highlight the agency's portfolio and client testimonials.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+Home Page: Engaging header with a bold "WE ARE CREATIVES" statement and a prominent citrus image.
+Services Section: Highlights transformative branding, unique audience engagement through design collaboration, graphic design, and photography services.
+Testimonials: Includes client feedback from marketing directors, client operating officers, and business owners.
+Footer: Contains navigation links and social media icons for connectivity.
+
+## Technologies Used
+
+React
+Vite
+Tailwind CSS
+
