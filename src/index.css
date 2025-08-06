@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Fraunces&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: "Barlow", sans-serif ;
+    font-size: 18px;
+    color:gray;
+    font-weight: 900;
+}
+
+h1{
+   font-family:"Fraunces" ,sans-serif; 
+   font-size: 18px;
+}
+
+
+@layer components{
+ .rbc-off-range{
+    @apply text-[#ff0]
+ }
+ .rbc-off-range-bg{
+    @apply bg-[#B50418]
+ }
+ .rbc-today{
+    @apply bg-[#000000] text-white;
+ }
+ .rbc-toolbar-label{
+    @apply  text-white font-bold;
+ }
+ .rbc-btn-group > button{
+    @apply bg-blue;
+ }
+}
