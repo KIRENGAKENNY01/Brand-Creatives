@@ -32,8 +32,8 @@ function Home(){
 
         <div className="md:w-[50%]">
           <picture>
-          <source media="(min-width:768px)" srcSet="../../public/desktop/image-transform.jpg" />
-          <img src="../../public/mobile/image-transform.jpg" alt="" className="w-full h-auto object-cover" />
+          <source media="(min-width:768px)" srcSet="/desktop/image-transform.jpg" />
+          <img src="/mobile/image-transform.jpg" alt="an egg in a yellow background" className="w-full h-auto object-cover" />
                  </picture>
         </div>
      
@@ -47,8 +47,8 @@ function Home(){
         
         <div className="md:w-[50%]">
           <picture>
-          <source media="(min-width:768px)" srcSet="../../public/desktop/image-stand-out.jpg" />
-          <img src="../../public/mobile/image-stand-out.jpg" alt="" className="w-full h-auto object-cover" />
+          <source media="(min-width:768px)" srcSet="/desktop/image-stand-out.jpg" />
+          <img src="/mobile/image-stand-out.jpg" alt="a pink cup in a pink background" className="w-full h-auto object-cover" />
                  </picture>
         </div>
 

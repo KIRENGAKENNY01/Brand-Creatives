@@ -1,6 +1,6 @@
-import Emily  from "../../public/users/image-emily.jpg"
-import Jennie from "../../public/users/image-jennie.jpg"
-import Thomas from "../../public/users/image-thomas.jpg"
+import Emily  from "/users/image-emily.jpg"
+import Jennie from "/users/image-jennie.jpg"
+import Thomas from "/users/image-thomas.jpg"
 
 
 function Testimonial(){

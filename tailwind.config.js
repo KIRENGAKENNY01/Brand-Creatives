@@ -17,11 +17,11 @@ export default {
       },
       backgroundImage:{
         'hero-mobile':"url('/public/mobile/image-header.jpg')",
-        'hero-desktop':"url('./public/desktop/image-header.jpg')",
-        'graphics-mobile':"url('./public/mobile/image-graphic-design.jpg')",
-        'graphics-desktop': "url('./public/desktop/image-graphic-design.jpg')",
-        'photography-mobile':"url('./public/mobile/image-photography.jpg')",
-        'photography-desktop':"url('./public/desktop/image-photography.jpg')"
+        'hero-desktop':"url('/public/desktop/image-header.jpg')",
+        'graphics-mobile':"url('/public/mobile/image-graphic-design.jpg')",
+        'graphics-desktop': "url('/public/desktop/image-graphic-design.jpg')",
+        'photography-mobile':"url('/public/mobile/image-photography.jpg')",
+        'photography-desktop':"url('/public/desktop/image-photography.jpg')"
       }
 
     },
